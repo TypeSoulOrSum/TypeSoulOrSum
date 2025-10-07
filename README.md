@@ -1,4 +1,3 @@
+Cybersecurity & Networking Student | Security Researcher | Tech Enthusiast  
 
-
-
- ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in DDoS mitigation and protection, automation, and infrastructure management.
