@@ -1,3 +1,1 @@
-Cybersecurity & Networking Student | Security Researcher | Tech Enthusiast  
-
-I specialize in Cloudflare, automation, and infrastructure management.
+I focus on Cloudflare, automation, and infrastructure management.
